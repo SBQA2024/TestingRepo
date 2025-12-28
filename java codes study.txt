@@ -1,0 +1,139 @@
+Java Introduction and Downloads 
+
+1.https://youtu.be/x3978Me0u94 
+
+Datatypes, Operators in Java 
+
+2.https://youtu.be/sdqwRRTbJGE
+
+Operators in Java Contd, Variables in Java 
+
+3.https://youtu.be/r-LfdZZcTjo
+
+Constructors in Java, Statements in Java 
+
+4.https://youtu.be/GyIrmGvejUo
+
+Looping Statements contd 
+
+5.https://youtu.be/pJyx-KmX6Pk
+
+Loops Contd, Break, Switch, Scanner Class
+
+6.https://youtu.be/-tVy5f1U3WY
+
+OOPS: Inheritance 
+
+7.https://youtu.be/P_7pyJE-FgQ
+
+Polymorphism 
+
+8.https://youtu.be/z7FMLPs4960
+
+Method Overriding, This Keyword, Final Keyword etc. 
+
+9.https://youtu.be/A51X28jOgOI
+
+Abstraction in Java 
+
+10.https://youtu.be/-i-050XOdcs
+
+Interface in Java 
+
+11.https://youtu.be/xIGlYQeDd8Q
+
+Access Modifiers in Java 
+
+12.https://youtu.be/Lv36QM0OIWE
+
+Arrays in Java 
+
+13.https://youtu.be/Lg1jj9OmkpQ
+
+Arrays & Strings Practice 
+
+14.https://youtu.be/DECt87EaZUs
+
+Strings Contd 
+
+15.https://youtu.be/8Ecdj-gdS20
+
+Java Revision 
+
+16.https://youtu.be/9x-67wbn9Qs
+
+String Buffer/Builder, Exception Handling in Java- Try Block, Catch Block, Multi Try, Nested Catch 
+
+17.https://youtu.be/71Nzn_7RLDY
+
+ArrayList
+
+18.https://youtu.be/uIPTp0aYUEY
+
+COLLECTION - 2
+
+https://www.youtube.com/watch?v=YQ9k8zpbHKU
+
+Collections in Java: Session 3 
+
+https://youtu.be/OGS9tQwm0OE
+
+Collections in Java: Session 4-Map Interface  
+
+https://youtu.be/xWqZ2RMKhSQ
+
+Collections in Java-Practice Session 
+
+https://youtu.be/sPWBifR5YU4
+
+map - 
+
+https://www.youtube.com/watch?v=YQ9k8zpbHKU
+
+Selenium Components & Webdriver Overview, Maven lifecycle etc. https://youtu.be/-OiHxq7hV-g
+
+Selenium Architecture https://youtu.be/z7_ioc56kVw
+
+
+
+
+Web Driver Interface, Driver/Browser commands etc
+
+https://youtu.be/dhdrpQxe6rM
+
+
+Locators in Selenium: CSS Selector, Xpath https://youtu.be/qryQ0YQ8rTQ
+
+Xpath contd, WebElements etc. https://youtu.be/5rL_Ku4-XCg
+
+Xpath Contd https://youtu.be/lsAPncP6AeQ
+
+WebElements contd https://youtu.be/zujziQB1G40
+
+
+Web Elements contd, CSS Selector Vs XPath, Interview Questions Practice https://youtu.be/qUfniVh92Js
+
+Handling Dropdown & Alerts in Selenium https://youtu.be/a_DsEkXsyzs
+
+Handling Alerts & Frames in Selenium https://youtu.be/5cNtWUJvzUA
+
+Handling Frames, Handling multiple Windows in Selenium https://youtu.be/Rp8QDD_ZEU4
+
+Javascript Executor, Screenshots in Selenium https://youtu.be/535G6-Rsgc0
+
+Action Class in Selenium https://youtu.be/uhUQQggZJrw
+
+Class #54: Exceptions in Selenium, Handling Web Table in Selenium https://youtu.be/WzHUI-z0QhM
+
+Class #55: Dynamic Web Table contd, Checkbox Selection, Handling Dynamic XPath etc. https://youtu.be/v2gGuZtwTwQ
+
+
+Synchronization Point, Waits in Selenium https://youtu.be/C8E21Ulfx-4
+
+Class #57: How to handle broken link, Chrome Options, Selenium Grid, Cross Browser Testing etc. https://youtu.be/TO75ccrtS1o
+
+Class #66: BDD Cucumber: Session 1 https://youtu.be/1QiNZszUs0o
+
+Class #67: BDD Cucumber: Session2 https://youtu.be/aVJHTrXG1c8
+
+
